@@ -1,7 +1,11 @@
 <img src="secreenshot\Dashboard.PNG">
 
+<img src="secreenshot\Role.PNG">
+<img src="secreenshot\login attemp.PNG">
+<img src="secreenshot\login.PNG">
+<img src="secreenshot\user.PNG">
 
-
+<img src="secreenshot\Permmision.PNG">
 
 
 
